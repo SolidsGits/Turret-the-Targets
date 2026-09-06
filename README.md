@@ -1,9 +1,5 @@
 # 🎯 Turret the Targets
 
-<p align="center">
-  <img src="Screenshots/Gameplay.png" width="800">
-</p>
-
 **Turret the Targets** is a 42-level arcade-style target shooting game originally created in **2018 as a student project** using Clickteam Fusion.
 
 The player controls a turret and must destroy all targets before time runs out, while carefully managing limited ammunition and using the environment to their advantage.
@@ -11,6 +7,10 @@ The player controls a turret and must destroy all targets before time runs out, 
 ## 🎮 Gameplay
 
 Each level challenges the player to eliminate all targets within a limited amount of time.
+
+<p align="center">
+  <img src="Screenshots/Gameplay.png" width="800">
+</p>
 
 ### Features
 
@@ -51,11 +51,6 @@ The player starts each level with three bullets and must use them carefully.
 
 Targets change appearance when successfully hit, allowing the player to track their progress.
 
-## 🎮 Controls
-
-<p align="center">
-  <img src="Screenshots/Controls.png" width="600">
-</p>
 
 ## 💻 Platforms
 
