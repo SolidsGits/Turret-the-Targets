@@ -44,7 +44,7 @@ The Windows version adapts the original touch-based gameplay for mouse input.
 The game includes an in-game tutorial explaining the different objects and mechanics.
 
 <p align="center">
-  <img src="Screenshots/How to Play.jpg" width="600">
+  <img src="Screenshots/How to Play.png" width="600">
 </p>
 
 The player starts each level with three bullets and must use them carefully.
