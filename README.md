@@ -57,12 +57,6 @@ Targets change appearance when successfully hit, allowing the player to track th
   <img src="Screenshots/Controls.png" width="600">
 </p>
 
-## 📸 Gameplay
-
-<p align="center">
-  <img src="Screenshots/Gameplay.png" width="800">
-</p>
-
 ## 💻 Platforms
 
 - Android
