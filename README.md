@@ -28,7 +28,7 @@ Some levels require more than simply shooting directly at a target. Players may 
 ## 🕹️ Controls
 
 <p align="center">
-  <img src="Controls.png" width="700">
+  <img src="Screenshots/Controls.png" width="700">
 </p>
 
 ### Android
